@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs
+content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImxlcGkyMyIsImlkIjoiNWYwNzBkMWNiMmM1OGE5NzQ4OTNlZmNmIiwiaWF0IjoxNTk0Mjk5OTM0fQ.sb9QWrjev8YtGdzirWWoq8W-vb4wD_LWK6nH9J866B0
+
+{
+    "author": "Darthvader",
+    "title": "I am your father and you are my son",
+    "url": "www..."
+}

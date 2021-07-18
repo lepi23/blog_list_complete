@@ -1,0 +1,48 @@
+.error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+.success {
+    color: green;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .blog {
+    color: gray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 5px;
+    margin-bottom: 2px;
+    list-style: none; 
+  }
+  .blogView {
+    color: gray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 5px;
+    margin-bottom: 2px;
+    list-style: none; 
+  }
+  .navigationBar {
+    color: gray;
+    background: lightgrey;
+    font-size: 12px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 2px;
+    margin-bottom: 2px;
+    list-style: none; 
+  }
+
